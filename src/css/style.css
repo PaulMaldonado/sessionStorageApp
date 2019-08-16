@@ -1,0 +1,18 @@
+.navbar-brand {
+    margin-left: 30px;
+}
+button, .btn {
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+button, .button-task {
+    font-size: 20px;
+}
+
+.btn-link {
+    color: white;
+}
